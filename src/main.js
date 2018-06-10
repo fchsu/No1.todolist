@@ -4,7 +4,6 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import './assets/css/Reset.css'
-import './assets/css/fontawesome-all.min.css'
 import bus from '@/assets/js/EventBus.js'
 
 Vue.config.productionTip = false
